@@ -1,5 +1,6 @@
-- Determined
-- Persevearance
-- Jovial
-- Ambivert
-- Moments dweller
+- **Determined**
+- **Persevearance**
+- **Jovial**
+- *Ambivert*
+- *Moments dweller*
+- *Philosophical sometimes*
