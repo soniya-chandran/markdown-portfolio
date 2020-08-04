@@ -1,6 +1,5 @@
+- :stars:
+- :moon:
+- :mountain:
+- :smile:
 
-:stars:
-:moon:
-:mountain:
-:smile:
-:chocolates:
